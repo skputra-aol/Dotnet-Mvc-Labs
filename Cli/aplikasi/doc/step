@@ -1,0 +1,3 @@
+$ dotnet new webapp --auth Individual
+$ dotnet ef database update
+$ dotnet run
